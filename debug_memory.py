@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import gc
 import sys
 import time
 
@@ -18,6 +19,7 @@ def myfunc(size_kb):
 def main():
     size_kb = sys.argv[1]
     myfunc(size_kb)
+    gc.collect()
     time.sleep(3600)
 
 
