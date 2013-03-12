@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 
+import random
 import sys
 import time
 
 
 class MyObj(object):
-    def __init__(self, filename):
-        with open(filename) as f:
-            self.att = f.read()
+    def __init__(self, size_kb):
+        self.att = str(random.randint(0, 9)) * int(size_kb) * 1024
 
 
 def myfunc(filename):
@@ -17,8 +17,8 @@ def myfunc(filename):
 
 
 def main():
-    filename = sys.argv[1]
-    myfunc(filename)
+    size_kb = sys.argv[1]
+    myfunc(size_kb)
     time.sleep(3600)
 
 

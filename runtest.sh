@@ -4,9 +4,9 @@ echo "PID RSS S TTY TIME COMMAND" > output.txt
 
 for i in `seq 1 200`;
 do
-    python debug_memory.py "data/stuff_${i}K.txt" &
+    python debug_memory.py $i 2>&1 &
     pid=$!
     sleep 0.1
-    ps -e -O rss | grep $pid | grep -v grep >> output.txt
+    ps -e -O rss | grep $pid | grep python >> output.txt
     kill $pid
 done   
