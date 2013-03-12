@@ -4,13 +4,11 @@ import sys
 import time
 
 
-class MyObj(object):
-    def __init__(self, size_kb):
-        self.att = ' ' * int(size_kb) * 1024
-
-
 def myfunc(size_kb):
-    mylist = [MyObj(size_kb) for x in xrange(1000)]
+    mylist = [
+        {'mykey': ' ' * int(size_kb) * 1024}
+        for x in xrange(100)
+    ]
     len(mylist)
     return []
 
