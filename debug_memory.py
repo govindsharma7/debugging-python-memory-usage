@@ -10,8 +10,8 @@ class MyObj(object):
         self.att = str(random.randint(0, 9)) * int(size_kb) * 1024
 
 
-def myfunc(filename):
-    mylist = [MyObj(filename) for x in xrange(100)]
+def myfunc(size_kb):
+    mylist = [MyObj(size_kb) for x in xrange(100)]
     len(mylist)
     return []
 
