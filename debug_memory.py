@@ -10,7 +10,7 @@ class MyObj(object):
 
 
 def myfunc(size_kb):
-    mylist = [MyObj(size_kb) for x in xrange(100)]
+    mylist = [MyObj(size_kb) for x in xrange(1000)]
     len(mylist)
     return []
 
