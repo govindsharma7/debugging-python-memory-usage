@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 
-import random
 import sys
 import time
 
 
 class MyObj(object):
     def __init__(self, size_kb):
-        self.att = str(random.randint(0, 9)) * int(size_kb) * 1024
+        self.att = ' ' * int(size_kb) * 1024
 
 
 def myfunc(size_kb):
