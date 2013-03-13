@@ -7,6 +7,6 @@ do
     python debug_memory.py $i 2>&1 &
     pid=$!
     sleep 0.2
-    ps -e -O rss | grep $pid | grep python | cut -d " " -f 2- >> output.txt
+    ps -e -O rss | grep $pid | grep python | awk '{$1 =""; print }' >> output.txt
     kill $pid
 done
