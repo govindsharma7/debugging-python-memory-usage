@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import gc
 import sys
 import time
 
@@ -13,6 +14,8 @@ def main():
         mylist.append(mystr)
 
     del mylist
+
+    gc.collect()
 
     time.sleep(3600)
 

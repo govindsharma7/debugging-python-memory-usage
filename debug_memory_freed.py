@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import gc
 import sys
 import time
 
@@ -12,6 +13,8 @@ def main():
         mylist.append(' ' * int(size_kb) * 1024)
 
     del mylist
+
+    gc.collect()
 
     time.sleep(3600)
 
