@@ -4,18 +4,15 @@ import sys
 import time
 
 
-def myfunc(size_kb):
+def main():
+    size_kb = sys.argv[1]
+
     mylist = [
         {'mykey': ' ' * int(size_kb) * 1024}
         for x in xrange(100)
     ]
-    len(mylist)
-    return []
+    del mylist
 
-
-def main():
-    size_kb = sys.argv[1]
-    myfunc(size_kb)
     time.sleep(3600)
 
 

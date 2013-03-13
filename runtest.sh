@@ -9,4 +9,4 @@ do
     sleep 0.2
     ps -e -O rss | grep $pid | grep python >> output.txt
     kill $pid
-done   
+done
