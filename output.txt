@@ -1,201 +1,201 @@
-PID RSS S TTY TIME COMMAND
-20536  4976 S pts/16   00:00:00 python debug_memory.py 1
-20542  4980 S pts/16   00:00:00 python debug_memory.py 2
-20549  5236 S pts/16   00:00:00 python debug_memory.py 3
-20555  5236 S pts/16   00:00:00 python debug_memory.py 4
-20561  5504 S pts/16   00:00:00 python debug_memory.py 5
-20567  5500 S pts/16   00:00:00 python debug_memory.py 6
-20573  5504 S pts/16   00:00:00 python debug_memory.py 7
-20579  5768 S pts/16   00:00:00 python debug_memory.py 8
-20585  5764 S pts/16   00:00:00 python debug_memory.py 9
-20591  6016 S pts/16   00:00:00 python debug_memory.py 10
-20597  6028 S pts/16   00:00:00 python debug_memory.py 11
-20604  6032 S pts/16   00:00:00 python debug_memory.py 12
-20610  6292 S pts/16   00:00:00 python debug_memory.py 13
-20616  6296 S pts/16   00:00:00 python debug_memory.py 14
-20622  6292 S pts/16   00:00:00 python debug_memory.py 15
-20628  6560 S pts/16   00:00:00 python debug_memory.py 16
-20634  6560 S pts/16   00:00:00 python debug_memory.py 17
-20640  6812 S pts/16   00:00:00 python debug_memory.py 18
-20646  6824 S pts/16   00:00:00 python debug_memory.py 19
-20652  6820 S pts/16   00:00:00 python debug_memory.py 20
-20659  7088 S pts/16   00:00:00 python debug_memory.py 21
-20667  7084 S pts/16   00:00:00 python debug_memory.py 22
-20673  7316 S pts/16   00:00:00 python debug_memory.py 23
-20679  7412 S pts/16   00:00:00 python debug_memory.py 24
-20685  7516 S pts/16   00:00:00 python debug_memory.py 25
-20691  7612 S pts/16   00:00:00 python debug_memory.py 26
-20697  7616 S pts/16   00:00:00 python debug_memory.py 27
-20703  7612 S pts/16   00:00:00 python debug_memory.py 28
-20710  7876 S pts/16   00:00:00 python debug_memory.py 29
-20716  7880 S pts/16   00:00:00 python debug_memory.py 30
-20722  7880 S pts/16   00:00:00 python debug_memory.py 31
-20728  8140 S pts/16   00:00:00 python debug_memory.py 32
-20734  8144 S pts/16   00:00:00 python debug_memory.py 33
-20740  8404 S pts/16   00:00:00 python debug_memory.py 34
-20746  8404 S pts/16   00:00:00 python debug_memory.py 35
-20753  8404 S pts/16   00:00:00 python debug_memory.py 36
-20759  8668 S pts/16   00:00:00 python debug_memory.py 37
-20765  8668 S pts/16   00:00:00 python debug_memory.py 38
-20771  8932 S pts/16   00:00:00 python debug_memory.py 39
-20777  8932 S pts/16   00:00:00 python debug_memory.py 40
-20783  8936 S pts/16   00:00:00 python debug_memory.py 41
-20789  9200 S pts/16   00:00:00 python debug_memory.py 42
-20795  9200 S pts/16   00:00:00 python debug_memory.py 43
-20801  9200 S pts/16   00:00:00 python debug_memory.py 44
-20807  9464 S pts/16   00:00:00 python debug_memory.py 45
-20814  9464 S pts/16   00:00:00 python debug_memory.py 46
-20820  9724 S pts/16   00:00:00 python debug_memory.py 47
-20826  9728 S pts/16   00:00:00 python debug_memory.py 48
-20832  9724 S pts/16   00:00:00 python debug_memory.py 49
-20838  9988 S pts/16   00:00:00 python debug_memory.py 50
-20844  9988 S pts/16   00:00:00 python debug_memory.py 51
-20850  9988 S pts/16   00:00:00 python debug_memory.py 52
-20856 10252 S pts/16   00:00:00 python debug_memory.py 53
-20862 10252 S pts/16   00:00:00 python debug_memory.py 54
-20869 10520 S pts/16   00:00:00 python debug_memory.py 55
-20875 10516 S pts/16   00:00:00 python debug_memory.py 56
-20881 10520 S pts/16   00:00:00 python debug_memory.py 57
-20887 10784 S pts/16   00:00:00 python debug_memory.py 58
-20893 10784 S pts/16   00:00:00 python debug_memory.py 59
-20899 10780 S pts/16   00:00:00 python debug_memory.py 60
-20905 11048 S pts/16   00:00:00 python debug_memory.py 61
-20911 11044 S pts/16   00:00:00 python debug_memory.py 62
-20918 11312 S pts/16   00:00:00 python debug_memory.py 63
-20924 11308 S pts/16   00:00:00 python debug_memory.py 64
-20930 11312 S pts/16   00:00:00 python debug_memory.py 65
-20936 11580 S pts/16   00:00:00 python debug_memory.py 66
-20942 11716 S pts/16   00:00:00 python debug_memory.py 67
-20948 11812 S pts/16   00:00:00 python debug_memory.py 68
-20954 11912 S pts/16   00:00:00 python debug_memory.py 69
-20960 12012 S pts/16   00:00:00 python debug_memory.py 70
-20970 12116 S pts/16   00:00:00 python debug_memory.py 71
-20976 12212 S pts/16   00:00:00 python debug_memory.py 72
-20983 12312 S pts/16   00:00:00 python debug_memory.py 73
-20991 12412 S pts/16   00:00:00 python debug_memory.py 74
-20997 12512 S pts/16   00:00:00 python debug_memory.py 75
-21003 12616 S pts/16   00:00:00 python debug_memory.py 76
-21009 12716 S pts/16   00:00:00 python debug_memory.py 77
-21015 12812 S pts/16   00:00:00 python debug_memory.py 78
-21021 12916 S pts/16   00:00:00 python debug_memory.py 79
-21027 13016 S pts/16   00:00:00 python debug_memory.py 80
-21033 13116 S pts/16   00:00:00 python debug_memory.py 81
-21040 13212 S pts/16   00:00:00 python debug_memory.py 82
-21046 13312 S pts/16   00:00:00 python debug_memory.py 83
-21052 13416 S pts/16   00:00:00 python debug_memory.py 84
-21058 13516 S pts/16   00:00:00 python debug_memory.py 85
-21064 13616 S pts/16   00:00:00 python debug_memory.py 86
-21070 13716 S pts/16   00:00:00 python debug_memory.py 87
-21076 13812 S pts/16   00:00:00 python debug_memory.py 88
-21082 13916 S pts/16   00:00:00 python debug_memory.py 89
-21088 13948 S pts/16   00:00:00 python debug_memory.py 90
-21094 13948 S pts/16   00:00:00 python debug_memory.py 91
-21101 14216 S pts/16   00:00:00 python debug_memory.py 92
-21107 14212 S pts/16   00:00:00 python debug_memory.py 93
-21113 14216 S pts/16   00:00:00 python debug_memory.py 94
-21119 14480 S pts/16   00:00:00 python debug_memory.py 95
-21125 14476 S pts/16   00:00:00 python debug_memory.py 96
-21131 14480 S pts/16   00:00:00 python debug_memory.py 97
-21137 14744 S pts/16   00:00:00 python debug_memory.py 98
-21143 14744 S pts/16   00:00:00 python debug_memory.py 99
-21149 15004 S pts/16   00:00:00 python debug_memory.py 100
-21156 15004 S pts/16   00:00:00 python debug_memory.py 101
-21162 15008 S pts/16   00:00:00 python debug_memory.py 102
-21168 15272 S pts/16   00:00:00 python debug_memory.py 103
-21174 15268 S pts/16   00:00:00 python debug_memory.py 104
-21180 15536 S pts/16   00:00:00 python debug_memory.py 105
-21186 15532 S pts/16   00:00:00 python debug_memory.py 106
-21192 15532 S pts/16   00:00:00 python debug_memory.py 107
-21198 15796 S pts/16   00:00:00 python debug_memory.py 108
-21204 15800 S pts/16   00:00:00 python debug_memory.py 109
-21213 15800 S pts/16   00:00:00 python debug_memory.py 110
-21220 16064 S pts/16   00:00:00 python debug_memory.py 111
-21226 16064 S pts/16   00:00:00 python debug_memory.py 112
-21232 16328 S pts/16   00:00:00 python debug_memory.py 113
-21238 16324 S pts/16   00:00:00 python debug_memory.py 114
-21244 16328 S pts/16   00:00:00 python debug_memory.py 115
-21250 16592 S pts/16   00:00:00 python debug_memory.py 116
-21256 16588 S pts/16   00:00:00 python debug_memory.py 117
-21263 16592 S pts/16   00:00:00 python debug_memory.py 118
-21269 16856 S pts/16   00:00:00 python debug_memory.py 119
-21275 16852 S pts/16   00:00:00 python debug_memory.py 120
-21281 17116 S pts/16   00:00:00 python debug_memory.py 121
-21287 17120 S pts/16   00:00:00 python debug_memory.py 122
-21293 17120 S pts/16   00:00:00 python debug_memory.py 123
-21299 17380 S pts/16   00:00:00 python debug_memory.py 124
-21305 17384 S pts/16   00:00:00 python debug_memory.py 125
-21311 17380 S pts/16   00:00:00 python debug_memory.py 126
-21318 17644 S pts/16   00:00:00 python debug_memory.py 127
-21324  5016 S pts/16   00:00:00 python debug_memory.py 128
-21330  5016 S pts/16   00:00:00 python debug_memory.py 129
-21336  5016 S pts/16   00:00:00 python debug_memory.py 130
-21342  5012 S pts/16   00:00:00 python debug_memory.py 131
-21348  5012 S pts/16   00:00:00 python debug_memory.py 132
-21354  5016 S pts/16   00:00:00 python debug_memory.py 133
-21360  5012 S pts/16   00:00:00 python debug_memory.py 134
-21366  5016 S pts/16   00:00:00 python debug_memory.py 135
-21373  5020 S pts/16   00:00:00 python debug_memory.py 136
-21379  5012 S pts/16   00:00:00 python debug_memory.py 137
-21385  5012 S pts/16   00:00:00 python debug_memory.py 138
-21391  5016 S pts/16   00:00:00 python debug_memory.py 139
-21397  5016 S pts/16   00:00:00 python debug_memory.py 140
-21403  5012 S pts/16   00:00:00 python debug_memory.py 141
-21409  5012 S pts/16   00:00:00 python debug_memory.py 142
-21415  5012 S pts/16   00:00:00 python debug_memory.py 143
-21421  5012 S pts/16   00:00:00 python debug_memory.py 144
-21428  5016 S pts/16   00:00:00 python debug_memory.py 145
-21434  5012 S pts/16   00:00:00 python debug_memory.py 146
-21440  5012 S pts/16   00:00:00 python debug_memory.py 147
-21446  5016 S pts/16   00:00:00 python debug_memory.py 148
-21452  5016 S pts/16   00:00:00 python debug_memory.py 149
-21458  5012 S pts/16   00:00:00 python debug_memory.py 150
-21464  5016 S pts/16   00:00:00 python debug_memory.py 151
-21470  5016 S pts/16   00:00:00 python debug_memory.py 152
-21477  5016 S pts/16   00:00:00 python debug_memory.py 153
-21483  5012 S pts/16   00:00:00 python debug_memory.py 154
-21489  5016 S pts/16   00:00:00 python debug_memory.py 155
-21495  5012 S pts/16   00:00:00 python debug_memory.py 156
-21501  5016 S pts/16   00:00:00 python debug_memory.py 157
-21507  5016 S pts/16   00:00:00 python debug_memory.py 158
-21513  5016 S pts/16   00:00:00 python debug_memory.py 159
-21522  5016 S pts/16   00:00:00 python debug_memory.py 160
-21528  5012 S pts/16   00:00:00 python debug_memory.py 161
-21535  5016 S pts/16   00:00:00 python debug_memory.py 162
-21541  5016 S pts/16   00:00:00 python debug_memory.py 163
-21547  5016 S pts/16   00:00:00 python debug_memory.py 164
-21553  5016 S pts/16   00:00:00 python debug_memory.py 165
-21559  5016 S pts/16   00:00:00 python debug_memory.py 166
-21565  5016 S pts/16   00:00:00 python debug_memory.py 167
-21571  5016 S pts/16   00:00:00 python debug_memory.py 168
-21577  5012 S pts/16   00:00:00 python debug_memory.py 169
-21583  5012 S pts/16   00:00:00 python debug_memory.py 170
-21589  5012 S pts/16   00:00:00 python debug_memory.py 171
-21596  5012 S pts/16   00:00:00 python debug_memory.py 172
-21602  5012 S pts/16   00:00:00 python debug_memory.py 173
-21608  5016 S pts/16   00:00:00 python debug_memory.py 174
-21614  5012 S pts/16   00:00:00 python debug_memory.py 175
-21620  5012 S pts/16   00:00:00 python debug_memory.py 176
-21626  5012 S pts/16   00:00:00 python debug_memory.py 177
-21632  5016 S pts/16   00:00:00 python debug_memory.py 178
-21638  5016 S pts/16   00:00:00 python debug_memory.py 179
-21645  5016 S pts/16   00:00:00 python debug_memory.py 180
-21651  5012 S pts/16   00:00:00 python debug_memory.py 181
-21657  5016 S pts/16   00:00:00 python debug_memory.py 182
-21663  5012 S pts/16   00:00:00 python debug_memory.py 183
-21669  5016 S pts/16   00:00:00 python debug_memory.py 184
-21675  5012 S pts/16   00:00:00 python debug_memory.py 185
-21681  5016 S pts/16   00:00:00 python debug_memory.py 186
-21687  5012 S pts/16   00:00:00 python debug_memory.py 187
-21694  5016 S pts/16   00:00:00 python debug_memory.py 188
-21700  5012 S pts/16   00:00:00 python debug_memory.py 189
-21706  5012 S pts/16   00:00:00 python debug_memory.py 190
-21712  5012 S pts/16   00:00:00 python debug_memory.py 191
-21718  5016 S pts/16   00:00:00 python debug_memory.py 192
-21724  5012 S pts/16   00:00:00 python debug_memory.py 193
-21730  5012 S pts/16   00:00:00 python debug_memory.py 194
-21736  5016 S pts/16   00:00:00 python debug_memory.py 195
-21742  5016 S pts/16   00:00:00 python debug_memory.py 196
-21748  5016 S pts/16   00:00:00 python debug_memory.py 197
-21755  5016 S pts/16   00:00:00 python debug_memory.py 198
-21761  5016 S pts/16   00:00:00 python debug_memory.py 199
-21767  5012 S pts/16   00:00:00 python debug_memory.py 200
+RSS S TTY TIME COMMAND
+ 4984 S pts/16   00:00:00 python debug_memory.py 1
+ 4980 S pts/16   00:00:00 python debug_memory.py 2
+ 5240 S pts/16   00:00:00 python debug_memory.py 3
+ 5244 S pts/16   00:00:00 python debug_memory.py 4
+ 5504 S pts/16   00:00:00 python debug_memory.py 5
+ 5508 S pts/16   00:00:00 python debug_memory.py 6
+ 5508 S pts/16   00:00:00 python debug_memory.py 7
+ 5768 S pts/16   00:00:00 python debug_memory.py 8
+ 5772 S pts/16   00:00:00 python debug_memory.py 9
+ 6020 S pts/16   00:00:00 python debug_memory.py 10
+ 6032 S pts/16   00:00:00 python debug_memory.py 11
+ 6036 S pts/16   00:00:00 python debug_memory.py 12
+ 6300 S pts/16   00:00:00 python debug_memory.py 13
+ 6296 S pts/16   00:00:00 python debug_memory.py 14
+ 6296 S pts/16   00:00:00 python debug_memory.py 15
+ 6560 S pts/16   00:00:00 python debug_memory.py 16
+ 6564 S pts/16   00:00:00 python debug_memory.py 17
+ 6820 S pts/16   00:00:00 python debug_memory.py 18
+ 6824 S pts/16   00:00:00 python debug_memory.py 19
+ 6828 S pts/16   00:00:00 python debug_memory.py 20
+ 7092 S pts/16   00:00:00 python debug_memory.py 21
+ 7092 S pts/16   00:00:00 python debug_memory.py 22
+ 7316 S pts/16   00:00:00 python debug_memory.py 23
+ 7416 S pts/16   00:00:00 python debug_memory.py 24
+ 7520 S pts/16   00:00:00 python debug_memory.py 25
+ 7620 S pts/16   00:00:00 python debug_memory.py 26
+ 7616 S pts/16   00:00:00 python debug_memory.py 27
+ 7620 S pts/16   00:00:00 python debug_memory.py 28
+ 7880 S pts/16   00:00:00 python debug_memory.py 29
+ 7884 S pts/16   00:00:00 python debug_memory.py 30
+ 7880 S pts/16   00:00:00 python debug_memory.py 31
+ 8148 S pts/16   00:00:00 python debug_memory.py 32
+ 8148 S pts/16   00:00:00 python debug_memory.py 33
+ 8412 S pts/16   00:00:00 python debug_memory.py 34
+ 8408 S pts/16   00:00:00 python debug_memory.py 35
+ 8412 S pts/16   00:00:00 python debug_memory.py 36
+ 8676 S pts/16   00:00:00 python debug_memory.py 37
+ 8672 S pts/16   00:00:00 python debug_memory.py 38
+ 8936 S pts/16   00:00:00 python debug_memory.py 39
+ 8940 S pts/16   00:00:00 python debug_memory.py 40
+ 8940 S pts/16   00:00:00 python debug_memory.py 41
+ 9208 S pts/16   00:00:00 python debug_memory.py 42
+ 9200 S pts/16   00:00:00 python debug_memory.py 43
+ 9200 S pts/16   00:00:00 python debug_memory.py 44
+ 9468 S pts/16   00:00:00 python debug_memory.py 45
+ 9464 S pts/16   00:00:00 python debug_memory.py 46
+ 9732 S pts/16   00:00:00 python debug_memory.py 47
+ 9728 S pts/16   00:00:00 python debug_memory.py 48
+ 9728 S pts/16   00:00:00 python debug_memory.py 49
+ 9996 S pts/16   00:00:00 python debug_memory.py 50
+ 9992 S pts/16   00:00:00 python debug_memory.py 51
+ 9992 S pts/16   00:00:00 python debug_memory.py 52
+10256 S pts/16   00:00:00 python debug_memory.py 53
+10256 S pts/16   00:00:00 python debug_memory.py 54
+10524 S pts/16   00:00:00 python debug_memory.py 55
+10520 S pts/16   00:00:00 python debug_memory.py 56
+10520 S pts/16   00:00:00 python debug_memory.py 57
+10784 S pts/16   00:00:00 python debug_memory.py 58
+10788 S pts/16   00:00:00 python debug_memory.py 59
+10784 S pts/16   00:00:00 python debug_memory.py 60
+11048 S pts/16   00:00:00 python debug_memory.py 61
+11052 S pts/16   00:00:00 python debug_memory.py 62
+11316 S pts/16   00:00:00 python debug_memory.py 63
+11312 S pts/16   00:00:00 python debug_memory.py 64
+11316 S pts/16   00:00:00 python debug_memory.py 65
+11620 S pts/16   00:00:00 python debug_memory.py 66
+11716 S pts/16   00:00:00 python debug_memory.py 67
+11816 S pts/16   00:00:00 python debug_memory.py 68
+11920 S pts/16   00:00:00 python debug_memory.py 69
+12016 S pts/16   00:00:00 python debug_memory.py 70
+12120 S pts/16   00:00:00 python debug_memory.py 71
+12216 S pts/16   00:00:00 python debug_memory.py 72
+12320 S pts/16   00:00:00 python debug_memory.py 73
+12420 S pts/16   00:00:00 python debug_memory.py 74
+12520 S pts/16   00:00:00 python debug_memory.py 75
+12620 S pts/16   00:00:00 python debug_memory.py 76
+12716 S pts/16   00:00:00 python debug_memory.py 77
+12816 S pts/16   00:00:00 python debug_memory.py 78
+12916 S pts/16   00:00:00 python debug_memory.py 79
+13016 S pts/16   00:00:00 python debug_memory.py 80
+13116 S pts/16   00:00:00 python debug_memory.py 81
+13220 S pts/16   00:00:00 python debug_memory.py 82
+13316 S pts/16   00:00:00 python debug_memory.py 83
+13420 S pts/16   00:00:00 python debug_memory.py 84
+13516 S pts/16   00:00:00 python debug_memory.py 85
+13616 S pts/16   00:00:00 python debug_memory.py 86
+13716 S pts/16   00:00:00 python debug_memory.py 87
+13816 S pts/16   00:00:00 python debug_memory.py 88
+13920 S pts/16   00:00:00 python debug_memory.py 89
+13952 S pts/16   00:00:00 python debug_memory.py 90
+13952 S pts/16   00:00:00 python debug_memory.py 91
+14220 S pts/16   00:00:00 python debug_memory.py 92
+14220 S pts/16   00:00:00 python debug_memory.py 93
+14220 S pts/16   00:00:00 python debug_memory.py 94
+14484 S pts/16   00:00:00 python debug_memory.py 95
+14480 S pts/16   00:00:00 python debug_memory.py 96
+14484 S pts/16   00:00:00 python debug_memory.py 97
+14748 S pts/16   00:00:00 python debug_memory.py 98
+14744 S pts/16   00:00:00 python debug_memory.py 99
+15012 S pts/16   00:00:00 python debug_memory.py 100
+15008 S pts/16   00:00:00 python debug_memory.py 101
+15008 S pts/16   00:00:00 python debug_memory.py 102
+15272 S pts/16   00:00:00 python debug_memory.py 103
+15272 S pts/16   00:00:00 python debug_memory.py 104
+15536 S pts/16   00:00:00 python debug_memory.py 105
+15540 S pts/16   00:00:00 python debug_memory.py 106
+15536 S pts/16   00:00:00 python debug_memory.py 107
+15800 S pts/16   00:00:00 python debug_memory.py 108
+15804 S pts/16   00:00:00 python debug_memory.py 109
+15800 S pts/16   00:00:00 python debug_memory.py 110
+16064 S pts/16   00:00:00 python debug_memory.py 111
+16064 S pts/16   00:00:00 python debug_memory.py 112
+16332 S pts/16   00:00:00 python debug_memory.py 113
+16332 S pts/16   00:00:00 python debug_memory.py 114
+16332 S pts/16   00:00:00 python debug_memory.py 115
+16596 S pts/16   00:00:00 python debug_memory.py 116
+16596 S pts/16   00:00:00 python debug_memory.py 117
+16596 S pts/16   00:00:00 python debug_memory.py 118
+16860 S pts/16   00:00:00 python debug_memory.py 119
+16860 S pts/16   00:00:00 python debug_memory.py 120
+17124 S pts/16   00:00:00 python debug_memory.py 121
+17120 S pts/16   00:00:00 python debug_memory.py 122
+17124 S pts/16   00:00:00 python debug_memory.py 123
+17388 S pts/16   00:00:00 python debug_memory.py 124
+17388 S pts/16   00:00:00 python debug_memory.py 125
+17384 S pts/16   00:00:00 python debug_memory.py 126
+17652 S pts/16   00:00:00 python debug_memory.py 127
+ 5020 S pts/16   00:00:00 python debug_memory.py 128
+ 5020 S pts/16   00:00:00 python debug_memory.py 129
+ 5016 S pts/16   00:00:00 python debug_memory.py 130
+ 5020 S pts/16   00:00:00 python debug_memory.py 131
+ 5020 S pts/16   00:00:00 python debug_memory.py 132
+ 5016 S pts/16   00:00:00 python debug_memory.py 133
+ 5020 S pts/16   00:00:00 python debug_memory.py 134
+ 5020 S pts/16   00:00:00 python debug_memory.py 135
+ 5016 S pts/16   00:00:00 python debug_memory.py 136
+ 5016 S pts/16   00:00:00 python debug_memory.py 137
+ 5020 S pts/16   00:00:00 python debug_memory.py 138
+ 5016 S pts/16   00:00:00 python debug_memory.py 139
+ 5020 S pts/16   00:00:00 python debug_memory.py 140
+ 5020 S pts/16   00:00:00 python debug_memory.py 141
+ 5020 S pts/16   00:00:00 python debug_memory.py 142
+ 5016 S pts/16   00:00:00 python debug_memory.py 143
+ 5020 S pts/16   00:00:00 python debug_memory.py 144
+ 5016 S pts/16   00:00:00 python debug_memory.py 145
+ 5020 S pts/16   00:00:00 python debug_memory.py 146
+ 5020 S pts/16   00:00:00 python debug_memory.py 147
+ 5020 S pts/16   00:00:00 python debug_memory.py 148
+ 5016 S pts/16   00:00:00 python debug_memory.py 149
+ 5020 S pts/16   00:00:00 python debug_memory.py 150
+ 5016 S pts/16   00:00:00 python debug_memory.py 151
+ 5016 S pts/16   00:00:00 python debug_memory.py 152
+ 5016 S pts/16   00:00:00 python debug_memory.py 153
+ 5016 S pts/16   00:00:00 python debug_memory.py 154
+ 5020 S pts/16   00:00:00 python debug_memory.py 155
+ 5016 S pts/16   00:00:00 python debug_memory.py 156
+ 5020 S pts/16   00:00:00 python debug_memory.py 157
+ 5020 S pts/16   00:00:00 python debug_memory.py 158
+ 5020 S pts/16   00:00:00 python debug_memory.py 159
+ 5020 S pts/16   00:00:00 python debug_memory.py 160
+ 5020 S pts/16   00:00:00 python debug_memory.py 161
+ 5016 S pts/16   00:00:00 python debug_memory.py 162
+ 5020 S pts/16   00:00:00 python debug_memory.py 163
+ 5016 S pts/16   00:00:00 python debug_memory.py 164
+ 5020 S pts/16   00:00:00 python debug_memory.py 165
+ 5016 S pts/16   00:00:00 python debug_memory.py 166
+ 5020 S pts/16   00:00:00 python debug_memory.py 167
+ 5020 S pts/16   00:00:00 python debug_memory.py 168
+ 5016 S pts/16   00:00:00 python debug_memory.py 169
+ 5020 S pts/16   00:00:00 python debug_memory.py 170
+ 5016 S pts/16   00:00:00 python debug_memory.py 171
+ 5016 S pts/16   00:00:00 python debug_memory.py 172
+ 5020 S pts/16   00:00:00 python debug_memory.py 173
+ 5016 S pts/16   00:00:00 python debug_memory.py 174
+ 5016 S pts/16   00:00:00 python debug_memory.py 175
+ 5016 S pts/16   00:00:00 python debug_memory.py 176
+ 5020 S pts/16   00:00:00 python debug_memory.py 177
+ 5020 S pts/16   00:00:00 python debug_memory.py 178
+ 5016 S pts/16   00:00:00 python debug_memory.py 179
+ 5016 S pts/16   00:00:00 python debug_memory.py 180
+ 5016 S pts/16   00:00:00 python debug_memory.py 181
+ 5016 S pts/16   00:00:00 python debug_memory.py 182
+ 5016 S pts/16   00:00:00 python debug_memory.py 183
+ 5020 S pts/16   00:00:00 python debug_memory.py 184
+ 5016 S pts/16   00:00:00 python debug_memory.py 185
+ 5020 S pts/16   00:00:00 python debug_memory.py 186
+ 5020 S pts/16   00:00:00 python debug_memory.py 187
+ 5020 S pts/16   00:00:00 python debug_memory.py 188
+ 5020 S pts/16   00:00:00 python debug_memory.py 189
+ 5016 S pts/16   00:00:00 python debug_memory.py 190
+ 5020 S pts/16   00:00:00 python debug_memory.py 191
+ 5016 S pts/16   00:00:00 python debug_memory.py 192
+ 5016 S pts/16   00:00:00 python debug_memory.py 193
+ 5020 S pts/16   00:00:00 python debug_memory.py 194
+ 5016 S pts/16   00:00:00 python debug_memory.py 195
+ 5020 S pts/16   00:00:00 python debug_memory.py 196
+ 5016 S pts/16   00:00:00 python debug_memory.py 197
+ 5020 S pts/16   00:00:00 python debug_memory.py 198
+ 5020 S pts/16   00:00:00 python debug_memory.py 199
+ 5016 S pts/16   00:00:00 python debug_memory.py 200
