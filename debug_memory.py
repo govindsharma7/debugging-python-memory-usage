@@ -9,7 +9,8 @@ def main():
 
     mylist = []
     for x in xrange(100):
-        mydict = {'mykey': ' ' * int(size_kb) * 1024}
+        mystr = ' ' * int(size_kb) * 1024
+        mydict = {'mykey': mystr}
         mylist.append(mydict)
 
     del mylist
