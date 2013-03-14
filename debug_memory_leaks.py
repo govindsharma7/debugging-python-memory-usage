@@ -9,12 +9,14 @@ def main():
     size_kb = sys.argv[1]
 
     mylist = []
-    for x in xrange(200):
+    for x in xrange(100):
         mystr = ' ' * int(size_kb) * 1024
-        mylist.append(mystr)
+        mydict = {'mykey': mystr}
+        mylist.append(mydict)
 
-    del mylist
     del mystr
+    del mydict
+    del mylist
 
     gc.collect()
 
