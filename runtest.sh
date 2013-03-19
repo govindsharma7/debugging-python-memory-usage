@@ -4,7 +4,7 @@ output_file="output_$1.txt"
 
 echo "RSS S TTY TIME COMMAND" > $output_file
 
-for i in `seq 1 1 200`;
+for i in `seq 1 1 2056`;
 do
     python $1 $i 2>&1 &
     pid=$!
